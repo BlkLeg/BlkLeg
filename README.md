@@ -1,5 +1,8 @@
 # Hi there, I'm Shawn! 👋
 
+![headshot](https://github.com/user-attachments/assets/85568d5f-84c0-44dc-8871-0e98aa54f7a5)
+
+
 ### 🛡️ Cybersecurity Student & Home Lab Enthusiast
 I am currently a **Sophomore at Arizona State University** pursuing a **B.S. in Cybersecurity**. My passion lies at the intersection of robust network security and the "always-on" world of self-hosting. I thrive on building secure, scalable infrastructure from the ground up.
 
