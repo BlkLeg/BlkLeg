@@ -24,7 +24,7 @@ A **CLI-first smart media parser** built with **Go**. It's designed for efficien
 * *Status:* Backend core complete. Currently live testing for edge cases and common pain points.
 * *Roadmap:* Frontend implementation scheduled for **Spring 2026**.
 
-#### 🗺️ NexTop (IPAM)
+#### 🗺️ CircuitBreaker (IPAM)
 A high-performance **IP Address Management (IPAM)** tool featuring **live network topologies**. 
 * Uses Rust for high-speed scanning components.
 * Focuses on real-time visualization of home and enterprise networks.
