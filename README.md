@@ -31,7 +31,8 @@ A **CLI-first smart media parser** built with **Go**. It's designed for efficien
 A high-performance **IP Address Management (IPAM)** tool featuring **live network topologies**. 
 * Uses Python FastAPI for high-speed scanning components.
 * Focuses on real-time visualization of home and enterprise networks.
-* Shows real-time telemetry across various subnets and environments. 
+* Shows real-time telemetry across various subnets and environments.
+* <https://github.com/BlkLeg/CircuitBreaker>
 
 #### 🖥️ Project Prism
 A next-generation **self-hosted dashboard** that bridges the gap between the aesthetics of *Homepage* and the functionality of *Homarr*.
