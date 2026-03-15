@@ -17,17 +17,21 @@ I am currently a **Sophomore at Arizona State University** pursuing a **B.S. in 
 ---
 
 ### 🛠️ What I'm Building
+
 I believe in "learning by breaking." Here are my primary active projects:
 
 #### 🏴‍☠️ Davy Jones Locker
+
 A **CLI-first smart media parser** built with **Go**. It's designed for efficiency and deep metadata control. 
 * *Status:* Backend core complete. Currently live testing for edge cases and common pain points.
 * *Roadmap:* Frontend implementation scheduled for **Spring 2026**.
 
-#### 🗺️ CircuitBreaker (IPAM)
+#### 🗺️ CircuitBreaker (IPAM) - v0.2.2 beta out now!
+
 A high-performance **IP Address Management (IPAM)** tool featuring **live network topologies**. 
-* Uses Rust for high-speed scanning components.
+* Uses Python FastAPI for high-speed scanning components.
 * Focuses on real-time visualization of home and enterprise networks.
+* Shows real-time telemetry across various subnets and environments. 
 
 #### 🖥️ Project Prism
 A next-generation **self-hosted dashboard** that bridges the gap between the aesthetics of *Homepage* and the functionality of *Homarr*.
@@ -36,6 +40,7 @@ A next-generation **self-hosted dashboard** that bridges the gap between the aes
 ---
 
 ### 📊 Home Lab Stats
+
 * **Nodes:** [X] Proxmox Nodes
 * **Containers:** [X] Docker Containers
 * **Storage:** [X] TB redundant ZFS storage
@@ -44,8 +49,9 @@ A next-generation **self-hosted dashboard** that bridges the gap between the aes
 ---
 
 ### 📫 Connect with me:
+
 * **LinkedIn:** [[Link](https://www.linkedin.com/in/shawn-j-phillips/)]
-* **Email:** [letshost-admin@proton.me]
+* **Email:** [letshost-admin@proton.me] - Business Inquiries
 * **Discord:** [blklegshawnji]
 
 ---
